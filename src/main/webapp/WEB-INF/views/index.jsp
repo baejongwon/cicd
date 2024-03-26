@@ -2,11 +2,11 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>sujung</h2>
+    <h2>k8s-ansible-server</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.3</h3>
+    <h3>Version: 3.4</h3>
 </body>
 </html>
